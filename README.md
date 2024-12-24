@@ -95,9 +95,15 @@ EDIT PROFILE:
 
 OFERTAT:
 ![ofertat](https://github.com/diellzapp/images/raw/main/ofertat.JPG)
+
+
 OFERTA:
 ![detail](https://github.com/diellzapp/images/raw/main/detail.JPG)
+
+
 ABOUT US:
 ![aboutus](https://github.com/diellzapp/images/raw/main/aboutus.JPG)
+
+
 
 
