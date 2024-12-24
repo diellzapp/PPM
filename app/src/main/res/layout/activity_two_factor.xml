@@ -1,0 +1,31 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <EditText
+        android:id="@+id/etVerificationCode"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+    android:hint="Enter Verification Code"
+    android:inputType="number"
+    android:maxLength="6"
+    android:textSize="18sp"
+    android:padding="16dp"
+    android:textAlignment="center"
+    android:importantForAccessibility="yes"
+    android:focusable="true"
+    android:focusableInTouchMode="true"/>
+
+    <Button
+        android:id="@+id/btnVerifyCode"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Verify Code"
+        android:textSize="18sp"
+        android:layout_marginTop="16dp"
+        android:minHeight="48dp"
+    android:importantForAccessibility="yes"
+    android:contentDescription="Verify the entered code"/>
+</LinearLayout>
