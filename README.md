@@ -65,4 +65,5 @@ Aplikacioni Hapirri përdor Firebase për:
 ---
 
 ## **Screenshot-e të Aplikacionit**
-![Home](https://github.com/diellzapp/images/pjesa1.jpg)
+![Oferta](https://github.com/diellzapp/images/raw/main/detail.JPG)
+
