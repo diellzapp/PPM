@@ -1,6 +1,6 @@
-# Hapirri - Aplikacion për Oferta të Restoranteve
+# HaPiRri - Aplikacion për Oferta të Restoranteve
 
-Hapirri është një aplikacion mobil që u mundëson përdoruesve të shikojnë dhe eksplorojnë ofertat më të mira të restoranteve, të krijojnë profile personale dhe të regjistrohen për të hyrë në platformë. Me një ndërfaqe të thjeshtë dhe funksionalitete të avancuara, Hapirri ofron një eksperiencë të këndshme për përdoruesit.
+HaPiRri është një aplikacion mobil që u mundëson përdoruesve të shikojnë dhe eksplorojnë ofertat më të mira të restoranteve, të krijojnë profile personale dhe të regjistrohen për të hyrë në platformë. Me një ndërfaqe të thjeshtë dhe funksionalitete të avancuara, HaPiRri ofron një eksperiencë të këndshme për përdoruesit.
 
 ---
 
@@ -10,7 +10,7 @@ Hapirri është një aplikacion mobil që u mundëson përdoruesve të shikojnë
 - **Sign Up:** Regjistrim për krijimin e profileve personale.
 - **Profili i Përdoruesit:** Menaxhimi i të dhënave personale dhe preferencave.
 - **Shikimi i Ofertave:** Eksplorimi i ofertave nga restorantet e regjistruara.
-- **Animacione:** Tranzicione të qeta dhe elemente vizuale tërheqëse.
+- **Animacione:** Elemente vizuale tërheqëse.
 - **Validimi i Input-it:** Kontroll për të dhënat gjatë regjistrimit.
 - **Notifikime:** Mesazhe mirëseardhjeje.
 - **Hashing i Fjalëkalimeve:** Ruajtje e sigurt e fjalëkalimeve.
