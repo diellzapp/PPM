@@ -65,5 +65,25 @@ Aplikacioni Hapirri përdor Firebase për:
 ---
 
 ## **Screenshot-e të Aplikacionit**
-![Oferta](https://github.com/diellzapp/images/raw/main/detail.JPG)
+HOME:
+![pjesa1](https://github.com/diellzapp/images/raw/main/pjesa1.JPG)
+SIGN UP:
+![signup](https://github.com/diellzapp/images/raw/main/signup.JPG)
+LOG IN:
+![login](https://github.com/diellzapp/images/raw/main/login.JPG)
+RESET PASSWORD
+![reset](https://github.com/diellzapp/images/raw/main/reset.JPG)
+HOME:
+![pjesa2](https://github.com/diellzapp/images/raw/main/pjesa2.JPG)
+PROFILI
+![profili](https://github.com/diellzapp/images/raw/main/profili.JPG)
+EDIT PROFILE:
+![editprofile2](https://github.com/diellzapp/images/raw/main/editprofile2.JPG)
+OFERTAT:
+![ofertat](https://github.com/diellzapp/images/raw/main/ofertat.JPG)
+OFERTA:
+![detail](https://github.com/diellzapp/images/raw/main/detail.JPG)
+ABOUT US:
+![aboutus](https://github.com/diellzapp/images/raw/main/aboutus.JPG)
+
 
