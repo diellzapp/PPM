@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="20dp"
+    android:background="#f0f0f0">
+
+    <!-- Titulli i aktivitetit -->
+    <TextView
+        android:id="@+id/infoTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Rreth Aplikacionit HaPiRri"
+        android:textSize="26sp"
+        android:textStyle="bold"
+        android:textColor="#2C3E50"
+        android:layout_marginBottom="20dp"
+        android:layout_gravity="center"/>
+
+    <!-- Imazhi i aplikacionit -->
+    <ImageView
+        android:id="@+id/appImage"
+        android:layout_width="match_parent"
+        android:layout_height="180dp"
+        android:src="@drawable/foto2"
+    android:layout_marginBottom="20dp"
+    android:scaleType="centerCrop"
+    android:contentDescription="HaPiRri Logo"/>
+
+    <!-- Përshkrimi i aplikacionit -->
+    <TextView
+        android:id="@+id/infoDescription"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="HaPiRri është një aplikacion inovativ që ofron mundësinë për të shfletuar dhe shikuar ofertat më të fundit të produkteve të ndryshme. Me HaPiRri, përdoruesit mund të shohin oferta speciale, të krijojnë llogari dhe të përfitojnë nga mundësitë ekskluzive për të kursyer. Ky aplikacion është krijuar për t'iu ofruar një përvojë të thjeshtë dhe efikase."
+        android:textSize="16sp"
+        android:textColor="#34495E"
+        android:layout_marginBottom="20dp"
+        android:lineSpacingExtra="6dp"
+        android:padding="10dp"/>
+
+    <!-- Ndihmë për përdoruesin -->
+    <TextView
+        android:id="@+id/helpSection"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:text="Si ta përdorni HaPiRri?"
+        android:textColor="#16A085"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/howToUse"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Për të shfletuar ofertat, thjesht klikoni në seksionin 'Shiko Ofertat'. Për t'u regjistruar, mund të klikoni në butonin 'Shko te Profili'. Ne ofrojmë mundësi të ndryshme për t'ju ndihmuar të gjeni produktet më të mira në çmime të favorshme."
+        android:textSize="16sp"
+        android:textColor="#34495E"
+        android:layout_marginBottom="20dp"
+        android:lineSpacingExtra="6dp"
+     />
+
+    <!-- Butoni për të kthyer në ekranin kryesor -->
+    <Button
+        android:id="@+id/buttonBackHome"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Kthehu në Home"
+        android:layout_gravity="center"
+        android:textSize="18sp"
+        android:layout_marginTop="20dp"
+        android:backgroundTint="#16A085"
+        android:textColor="#ffffff"
+        android:padding="10dp"/>
+
+</LinearLayout>
